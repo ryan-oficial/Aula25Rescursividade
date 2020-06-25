@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\bin\Debug\netcoreapp3.1\Aula25Recursivo.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\bin\Debug\netcoreapp3.1\Aula25Recursivo.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\bin\Debug\netcoreapp3.1\Aula25Recursivo.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\bin\Debug\netcoreapp3.1\Aula25Recursivo.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\bin\Debug\netcoreapp3.1\Aula25Recursivo.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\bin\Debug\netcoreapp3.1\Aula25Recursivo.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\obj\Debug\netcoreapp3.1\Aula25Recursivo.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\obj\Debug\netcoreapp3.1\Aula25Recursivo.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\obj\Debug\netcoreapp3.1\Aula25Recursivo.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\obj\Debug\netcoreapp3.1\Aula25Recursivo.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula25Recursivo\obj\Debug\netcoreapp3.1\Aula25Recursivo.pdb
